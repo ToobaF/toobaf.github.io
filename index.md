@@ -1,4 +1,5 @@
- ### Biography
+ 
+ ###  Biography
 ---
 
 ## Projects 
@@ -9,7 +10,7 @@ Evolution of Metadata in Bitcoin Blockchain(MRes Project)
 
 
 
-### Invited Talks
+## Invited Talks
 Joining Forces for Blockchain Standardisation - European Commission - 17th June 2020
 GSMA Operator Platform workshop London - 16th September 2019
 Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria University - October 2018
@@ -24,7 +25,7 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 - Bachelor of Computer Engineering - Bahria University, Karachi, Pakistan(2001 - 2005)
 
 
-### Publications
+## Publications
 
 - [The Evolution of Embedding Metadata in Blockchain](https://arxiv.org/abs/1806.06738)
 
