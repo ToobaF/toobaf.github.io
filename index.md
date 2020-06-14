@@ -6,12 +6,13 @@
 ### Projects
 
 [Accountability through Just-in-Time Smart Contracts](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### Invited Talks
 
 
 ## MRes Activities
+---
 
 ### Projects
 
