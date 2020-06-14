@@ -1,18 +1,17 @@
  
-## PhD - King's College London
 
-### Projects
+
+### PhD - King's College London
+
+## Projects
 
 [Accountability through Just-in-Time Smart Contracts](/sample_page)
-
 
 ### Invited Talks
 
 
-## MRes Activities
----
 
-### Projects
+## MRes Activities
 
 - [Anonoymity in Bitcoin Blockchain]
 
