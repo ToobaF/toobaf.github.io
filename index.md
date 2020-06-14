@@ -1,7 +1,5 @@
  
-
-## PhD Activities
----
+## PhD - King's College London
 
 ### Projects
 
