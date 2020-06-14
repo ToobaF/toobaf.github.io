@@ -1,19 +1,28 @@
- 
+ ### Biography
+---
+
+## Projects 
+---
+Accountable QoS Monitoring with Just-in-Time Smart Contracts
+Evolution of Metadata in Bitcoin Blockchain(MRes Project)
 
 
-### PhD - King's College London
 
-## Projects
-
-[Accountability through Just-in-Time Smart Contracts](/sample_page)
 
 ### Invited Talks
+Joining Forces for Blockchain Standardisation - European Commission - 17th June 2020
+GSMA Operator Platform workshop London - 16th September 2019
+Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria University - October 2018
 
 
 
-## MRes Activities
 
-- [Anonoymity in Bitcoin Blockchain]
+## Education
+- PhD - King's College London(2018 - )
+- Master of Research(Security Science) - University College London(UCL)(2016 - 2017)
+- Master of Science(Telecommunication and Networks) - Bahria University, Karachi, Pakistan(2005-2007)
+- Bachelor of Computer Engineering - Bahria University, Karachi, Pakistan(2001 - 2005)
+
 
 ### Publications
 
