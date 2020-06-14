@@ -1,5 +1,5 @@
  
- ###  Biography
+ ### Biography
 ---
 
 ## Projects 
