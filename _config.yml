@@ -1,11 +1,11 @@
 title: Tooba Faisal #your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: PHD scholar at Kings College Londo > # your text below (remove <br> elements if you don't need line breaks)
-   Interested in: 
-  <br><br>
+  <br><br> 
+  Interested in:
+ <br><br>   
+ <a href="https://linkedin.com/in/toobafaisal">View My LinkedIn Profile</a> 
    
-  <br><br>
-  <a href="https://linkedin.com/in/toobafaisal">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 
