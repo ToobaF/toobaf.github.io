@@ -36,7 +36,8 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ## Publications
 ---
 - [The Evolution of Embedding Metadata in Blockchain](https://arxiv.org/abs/1806.06738)
-<a href="pdfs/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt=""></a><a href="/pdf/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt=""></a>
+<a href="pdfs/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt="AJIT: Accountable Just-in-Time Network Resource Allocation
+with Smart Contracts" width="1280" height="720"
  - [AJIT: Accountable Just-in-Time Network Resource Allocation
 with Smart Contracts](/pdf/AJIT.pdf)
 
