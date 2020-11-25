@@ -15,7 +15,7 @@ Evolution of Metadata in Bitcoin Blockchain(MRes Project)
 ---
 EU Cyber Security Week - ETSI - 29th October 2020 <a href="//github.com/ToobaF/talks/raw/main/EU_cybersecurityweek.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
-Joining Forces for Blockchain Standardisation - European Commission - 17th June 2020
+Joining Forces for Blockchain Standardisation - European Commission - 17th June 2020 <a href="//github.com/ToobaF/talks/raw/main/ec.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
 GSMA Operator Platform workshop London - 16th September 2019
 
