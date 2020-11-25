@@ -1,5 +1,5 @@
 encoding: UTF-8
-title: Tooba Faisal #your name (or website title) here
+title: "Tooba Faisal" #your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: PHD scholar at Kings College London  # your text below (remove <br> elements if you don't need line breaks)
  <br><br> 
@@ -8,4 +8,5 @@ description: PHD scholar at Kings College London  # your text below (remove <br>
  <a href="https://linkedin.com/in/toobafaisal">View My LinkedIn Profile</a> 
  
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "dark"
 
