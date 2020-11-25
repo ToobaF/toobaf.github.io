@@ -4,7 +4,7 @@
 
 ## Projects 
 ---
-Accountable QoS Monitoring with Just-in-Time Smart Contracts
+Accountable QoS Monitoring with Just-in-Time Smart Contracts(PhD Project)
 
 Evolution of Metadata in Bitcoin Blockchain(MRes Project)
 
