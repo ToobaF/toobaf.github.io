@@ -23,9 +23,6 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 
 
 
-
-
-
 ## Education
 ---
 - PhD - King's College London(2018 - )
