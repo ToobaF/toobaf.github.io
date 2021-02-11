@@ -47,7 +47,9 @@ with Smart Contracts](/pdf/AJIT.pdf) -->
 
 ---
 
+## Standards Contribution
 
+ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL)- Rapporteur of the Work Item on 'Smart Contracts' <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58907">Link to the WI</a>
 
 
 ---
