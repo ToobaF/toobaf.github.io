@@ -13,7 +13,10 @@ Evolution of Metadata in Bitcoin Blockchain(MRes Project)
 
 ## Invited Talks
 ---
-ICT Verticals and Horizontals for Blockchain Standardisation - Round table on IoT organised by European Commission - 27th January 2021 <a href="//github.com/ToobaF/talks/raw/main/IoT_EC.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
+
+ICT Verticals and Horizontals for Blockchain Standardisation - **Round Table on Smart Contracts** organised by European Commission - 21st April 2021 <a href="//github.com/ToobaF/talks/raw/main/IoT_EC_SC_RT.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
+
+ICT Verticals and Horizontals for Blockchain Standardisation - **Round Table on IoT organised by European Commission** - 27th January 2021 <a href="//github.com/ToobaF/talks/raw/main/IoT_EC.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
 EU Cyber Security Week - ETSI - 29th October 2020 <a href="//github.com/ToobaF/talks/raw/main/EU_cybersecurityweek.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
