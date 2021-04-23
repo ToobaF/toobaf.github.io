@@ -42,7 +42,7 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ## Publications
 ---
 <!-- - [The Evolution of Embedding Metadata in Blockchain](https://arxiv.org/abs/1806.06738)-->
-- How to Request Network Resources Just-in-Time using Smart Contracts <a href="//github.com/ToobaF/publications/raw/main/'How to Request Resources Just-in-Time with Smart Contracts.pdf'" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
+- How to Request Network Resources Just-in-Time using Smart Contracts <a href="//github.com/ToobaF/publications/raw/main/How to Request Resources Just-in-Time with Smart Contracts.pdf" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
   
 - AJIT: Accountable Just-in-Time Network Resource Allocation with Smart Contracts <a href="//github.com/ToobaF/publications/raw/main/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt="Paper" width="20"></a> <a href="//github.com/ToobaF/talks/raw/main/MobiArch.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
