@@ -42,7 +42,7 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ## Publications
 ---
 
-- Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers <a href="//github.com/ToobaF/publications/raw/main/IWQoS-6.pdf class="image fit"><img src="images/pdf.png" alt="Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers" width="20"></a> 
+- Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers <a href="//github.com/ToobaF/publications/raw/main/IWQoS-6.pdf" class="image fit"><img src="images/pdf.png" alt="Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers" width="20"></a> 
 <!-- - [AJIT: Accountable Just-in-Time Network Resource Allocation
 with Smart Contracts](/pdf/AJIT.pdf) -->
 
