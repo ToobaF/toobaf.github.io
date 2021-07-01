@@ -42,16 +42,16 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ## Publications
 ---
 
-- Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers <a href="//github.com/ToobaF/publications/raw/main/IWQoS-6.pdf" class="image fit"><img src="images/pdf.png" alt="Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers" width="20"></a> 
+- Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers (IWQoS'21) <a href="//github.com/ToobaF/publications/raw/main/IWQoS-6.pdf" class="image fit"><img src="images/pdf.png" alt="Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers" width="20"></a> 
 <!-- - [AJIT: Accountable Just-in-Time Network Resource Allocation
 with Smart Contracts](/pdf/AJIT.pdf) -->
 
 <!-- - [The Evolution of Embedding Metadata in Blockchain](https://arxiv.org/abs/1806.06738)-->
-- How to Request Network Resources Just-in-Time using Smart Contracts <a href="//github.com/ToobaF/publications/raw/main/How to Request Resources Just-in-Time with Smart Contracts.pdf" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
+- How to Request Network Resources Just-in-Time using Smart Contracts (ICBC'21) <a href="//github.com/ToobaF/publications/raw/main/How to Request Resources Just-in-Time with Smart Contracts.pdf" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
   
-- AJIT: Accountable Just-in-Time Network Resource Allocation with Smart Contracts <a href="//github.com/ToobaF/publications/raw/main/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt="Paper" width="20"></a> <a href="//github.com/ToobaF/talks/raw/main/MobiArch.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
+- AJIT: Accountable Just-in-Time Network Resource Allocation with Smart Contracts (MobiArch'20) <a href="//github.com/ToobaF/publications/raw/main/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt="Paper" width="20"></a> <a href="//github.com/ToobaF/talks/raw/main/MobiArch.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
-- The Evolution of Embedding Metadata in Blockchain <a href="https://arxiv.org/abs/1806.06738" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
+- The Evolution of Embedding Metadata in Blockchain  (IJCNN'18) <a href="https://arxiv.org/abs/1806.06738" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
 <!-- - [AJIT: Accountable Just-in-Time Network Resource Allocation
 with Smart Contracts](/pdf/AJIT.pdf) -->
 
@@ -61,7 +61,9 @@ with Smart Contracts](/pdf/AJIT.pdf) -->
 
 ## Standards Contribution
 
-ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL)- Rapporteur of the Work Item on 'Smart Contracts' <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58907">Link to the WI</a>
+- Rapporteur of the Work Item on 'Smart Contracts' **Group Report PDL - 004** ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL) <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58907">Link to the WI</a>
+
+- Rapporteur of the Work Item on 'Smart Contracts' **Group Specifications PDL - 11** ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL) <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62584">Link to the WI</a>
 
 
 ---
