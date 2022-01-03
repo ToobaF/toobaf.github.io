@@ -41,6 +41,10 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 
 ## Publications
 ---
+- BEAT: Blockchain-Enable Accountable and Transparent Infrastructure Sharing (preprint available - submitted for peer-review)  <a href="//github.com/ToobaF/publications/raw/main/BEAT_Access_version-4.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
+
+- BEAT: Blockchain-Enable Accountable and Transparent Network Sharing (***IEEE Communications Magazine*** **Accepted**) <a href="//github.com/ToobaF/publications/raw/main/BEAT_arxivversion-5.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
+
 
 - Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers (IWQoS'21) <a href="//github.com/ToobaF/publications/raw/main/IWQoS-6.pdf" class="image fit"><img src="images/pdf.png" alt="Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers" width="20"></a> 
 <!-- - [AJIT: Accountable Just-in-Time Network Resource Allocation
