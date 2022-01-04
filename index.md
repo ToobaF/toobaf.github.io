@@ -1,13 +1,16 @@
 
-### Biography
+# Biography
 ---
+I am a PhD student at King's College London. My research interests are Distributed Ledger Technologies and Service Level Agreements
+
 
 ## Projects 
 ---
 
 ### PhD Projects
-BEAT: Blockchain-Enabled Accountable and Transparent Network Sharing
-Accountable Quality of Service Monitoring and SLA Management with Just-in-Time Smart Contracts
+- BEAT: Blockchain-Enabled Accountable and Transparent Network Sharing
+
+- Accountable Quality of Service Monitoring and SLA Management with Just-in-Time Smart Contracts
 
 
 ### MRes Project
