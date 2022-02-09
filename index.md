@@ -1,7 +1,13 @@
 
 # Biography
 ---
-I am a PhD student at King's College London. My research interests are Distributed Ledger Technologies and Service Level Agreements
+I am a PhD student at King's College London. My research interests are:
+1) Distributed Ledger Technologies 
+2) Service Level Agreements
+3) Accountable and tansparent networks
+3) Network design for 6G and beyond
+
+I am also a King's delegate in ETSI ISG PDL and lead  smart contract reports and specifications. Currently I am working on a report on non-repudiation technqiues in permissioned distributed ledgers. 
 
 
 ## Projects 
