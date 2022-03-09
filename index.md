@@ -28,6 +28,9 @@ Evolution of Metadata in Bitcoin Blockchain
 ## Invited Talks
 ---
 
+
+IEEE Blockchain Symposium - **IEEE UAE Blockchain Kick-Off Symposium** organised by University of Dubai - 09th March 2022 <a href="//github.com/ToobaF/talks/raw/main/UAE_5GSummit.pdf.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
+
 ICT Verticals and Horizontals for Blockchain Standardisation - **Round Table on Smart Contracts** organised by European Commission - 21st April 2021 <a href="//github.com/ToobaF/talks/raw/main/IoT_EC_SC_RT.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
 ICT Verticals and Horizontals for Blockchain Standardisation - **Round Table on IoT organised by European Commission** - 27th January 2021 <a href="//github.com/ToobaF/talks/raw/main/IoT_EC.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
@@ -83,6 +86,7 @@ with Smart Contracts](/pdf/AJIT.pdf) -->
 
 - Rapporteur of the Work Item on 'Smart Contracts' **Group Specifications PDL - 11** ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL) <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62584">Link to the WI</a>
 
+- Rapporteur of the Work Item on 'Study on Non-Repudiation Techniques' **Group Report PDL - 14** ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL) <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=64281">Link to the WI</a>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
