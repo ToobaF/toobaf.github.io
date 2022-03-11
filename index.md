@@ -30,7 +30,7 @@ Evolution of Metadata in Bitcoin Blockchain
 
 
 
-EUBOF Workshop on Smart Contracts -  organised by University of Dubai - 09th March 2022 <a href="//github.com/ToobaF/talks/raw/main/UEU-BOF.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
+EUBOF Workshop on Smart Contracts -  organised by EU Blockchain Observatory & Forum - 09th March 2022 <a href="//github.com/ToobaF/talks/raw/main/UEU-BOF.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
 IEEE Blockchain Symposium - **IEEE UAE Blockchain Kick-Off Symposium** organised by University of Dubai - 09th March 2022 <a href="//github.com/ToobaF/talks/raw/main/UAE_5GSummit.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
