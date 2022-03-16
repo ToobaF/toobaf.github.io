@@ -1,7 +1,7 @@
 
 # Biography
 ---
-I am a PhD student at King's College London. My research interests are:
+PhD student at King's College London. Research interests are:
 1) Distributed Ledger Technologies 
 2) Service Level Agreements
 3) Accountable and tansparent networks
