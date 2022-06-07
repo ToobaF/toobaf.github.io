@@ -29,6 +29,7 @@ Evolution of Metadata in Bitcoin Blockchain
 ---
 
 
+Smart Contracts Standardisation workshop -- organised by EU Commission - 07th June 2022 <a href="//github.com/ToobaF/talks/raw/main/EUCommission0706.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
 EUBOF Workshop on Smart Contracts -  organised by EU Blockchain Observatory & Forum - 10th March 2022 <a href="//github.com/ToobaF/talks/raw/main/UEU-BOF.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a> <a href="https://youtu.be/relp8dgbzqY"> EUBOF YouTube Link </a>  
 
@@ -61,7 +62,10 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 
 ## Publications
 ---
-- BEAT: Blockchain-Enable Accountable and Transparent Infrastructure Sharing (preprint available - submitted for peer-review)  <a href="//github.com/ToobaF/publications/raw/main/journal_arxiv.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
+
+- How to Design Autonomous Service Level Agreements for 6G (***IEEE Communications Magazine*** **Submitted**)  <a href="//github.com/ToobaF/publications/raw/main/2204.03857.pdf" class="image fit"><img src="images/pdf.png" alt="SLA_SC" width="20"></a> 
+- 
+- BEAT: Blockchain-Enable Accountable and Transparent Infrastructure Sharing (***IEEE Access***)  <a href="//github.com/ToobaF/publications/raw/main/BEAT_Blockchain-Enabled_Accountable_and_Transparent_Infrastructure_Sharing_in_6G_and_Beyond.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
 
 - BEAT: Blockchain-Enable Accountable and Transparent Network Sharing (***IEEE Communications Magazine*** **Accepted**) <a href="//github.com/ToobaF/publications/raw/main/main_commag_rev.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
 
