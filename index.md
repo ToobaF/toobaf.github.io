@@ -1,7 +1,8 @@
 
 # Biography
 ---
-PhD student at King's College London. Research interests are:
+Research Web3 Engineer at Nokia Bell-Labs. PhD in Telecommunications from King's College London
+Research interests are:
 1) Distributed Ledger Technologies 
 2) Service Level Agreements
 3) Accountable and tansparent networks
@@ -51,13 +52,13 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 
 ## Education
 ---
-- PhD - King's College London(2018 - )
+- PhD - King's College London (2018 - 2022)
 
-- Master of Research(Security Science) - University College London(UCL)(2016 - 2017)
+- Master of Research (Security Science) - University College London (UCL)(2016 - 2017)
 
-- Master of Science(Telecommunication and Networks) - Bahria University, Karachi, Pakistan(2005-2007)
+- Master of Science (Telecommunication and Networks) - Bahria University, Karachi, Pakistan (2005-2007)
 
-- Bachelor of Computer Engineering - Bahria University, Karachi, Pakistan(2001 - 2005)
+- Bachelor of Computer Engineering - Bahria University, Karachi, Pakistan (2001 - 2005)
 
 
 ## Publications
@@ -78,7 +79,7 @@ with Smart Contracts](/pdf/AJIT.pdf) -->
   
 - AJIT: Accountable Just-in-Time Network Resource Allocation with Smart Contracts (***MobiArch'20***) <a href="//github.com/ToobaF/publications/raw/main/AJIT.pdf" class="image fit"><img src="images/pdf.png" alt="Paper" width="20"></a> <a href="//github.com/ToobaF/talks/raw/main/MobiArch.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
-- The Evolution of Embedding Metadata in Blockchain  (IJCNN'18) <a href="https://arxiv.org/abs/1806.06738" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
+- The Evolution of Embedding Metadata in Blockchain  (***IJCNN'18***) <a href="https://arxiv.org/abs/1806.06738" class="image fit"><img src="images/pdf.png" alt="The Evolution of Embedding Metadata in Blockchain" width="20"></a> 
 <!-- - [AJIT: Accountable Just-in-Time Network Resource Allocation
 with Smart Contracts](/pdf/AJIT.pdf) -->
 
