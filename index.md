@@ -1,14 +1,11 @@
 
-# Biography
----
-Research Web3 Engineer at Nokia Bell-Labs. PhD in Telecommunications from King's College London
+## Research Web3 Engineer at Nokia Bell-Labs.
+
 Research interests are:
 1) Distributed Ledger Technologies 
 2) Service Level Agreements
-3) Accountable and tansparent networks
+3) Accountable and Tansparent Networks
 3) Network design for 6G and beyond
-
-I am also a King's delegate in ETSI ISG PDL and lead  smart contract reports and specifications. Currently I am working on a report on non-repudiation technqiues in permissioned distributed ledgers. 
 
 
 ## Projects 
@@ -28,7 +25,6 @@ Evolution of Metadata in Bitcoin Blockchain
 
 ## Invited Talks
 ---
-
 
 Smart Contracts Standardisation Workshop -- organised by EU Commission - 07th June 2022 <a href="//github.com/ToobaF/talks/raw/main/EUCommission0706.pdf" class="image fit"><img src="images/pdf.png" alt="Slides" width="20"></a>
 
@@ -54,7 +50,7 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ---
 - PhD - King's College London (2018 - 2022)
 
-- Master of Research (Security Science) - University College London (UCL)(2016 - 2017)
+- Master of Research (Security Science) - University College London (UCL) (2016 - 2017)
 
 - Master of Science (Telecommunication and Networks) - Bahria University, Karachi, Pakistan (2005-2007)
 
@@ -65,9 +61,9 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ---
 
 - How to Design Autonomous Service Level Agreements for 6G (***IEEE Communications Magazine*** **Submitted**)  <a href="//github.com/ToobaF/publications/raw/main/2204.03857.pdf" class="image fit"><img src="images/pdf.png" alt="SLA_SC" width="20"></a> 
-- BEAT: Blockchain-Enable Accountable and Transparent Infrastructure Sharing (***IEEE Access***)  <a href="//github.com/ToobaF/publications/raw/main/BEAT_Blockchain-Enabled_Accountable_and_Transparent_Infrastructure_Sharing_in_6G_and_Beyond.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
+- BEAT: Blockchain-Enable Accountable and Transparent Infrastructure Sharing (***IEEE Access 2022***)  <a href="//github.com/ToobaF/publications/raw/main/BEAT_Blockchain-Enabled_Accountable_and_Transparent_Infrastructure_Sharing_in_6G_and_Beyond.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
 
-- BEAT: Blockchain-Enable Accountable and Transparent Network Sharing (***IEEE Communications Magazine*** **Accepted**) <a href="//github.com/ToobaF/publications/raw/main/main_commag_rev.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
+- BEAT: Blockchain-Enable Accountable and Transparent Network Sharing (***IEEE Communications Magazine 2022***) <a href="//github.com/ToobaF/publications/raw/main/main_commag_rev.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
 
 
 - Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers (***IWQoS'21***) <a href="//github.com/ToobaF/publications/raw/main/IWQoS-6.pdf" class="image fit"><img src="images/pdf.png" alt="Automated Quality of Service Monitoring for 5G and Beyond Using Distributed Ledgers" width="20"></a> 
