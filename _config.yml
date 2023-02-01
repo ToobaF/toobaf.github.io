@@ -1,5 +1,5 @@
-title: "Tooba Faisal" ###your name (or website title) here
-logo: <img src="/images/logo.png" width="100" height="50"> # your photo (or logo) here
+title: "Tooba Faisal" # your name (or website title) here
+logo: <img src=" /images/logo.png " width="100" height="50"> # your photo (or logo) here
 description: Research Web3 Engineer at Nokia Bell-Labs  # your text below (remove <br> elements if you don't need line breaks)
 
 theme: jekyll-theme-minimal
