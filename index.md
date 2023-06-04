@@ -1,5 +1,5 @@
 
-## Research Web3 Engineer at Nokia Bell-Labs, France.
+## Research Web3 Engineer at Nokia Bell-Labs.
 
 Research interests are:
 1) Distributed Ledger Technologies 
