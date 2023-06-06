@@ -48,7 +48,7 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 
 ## Education
 ---
-- PhD - King's College London (2018 - 2022) --  <a href="[https://youtu.be/relp8dgbzqY](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/199281281/2023_Faisal_Tooba_1869756_ethesis.pdf)"> PhD Thesis available here </a>  
+- PhD - King's College London (2018 - 2022) --  <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/199281281/2023_Faisal_Tooba_1869756_ethesis.pdf"> PhD Thesis available here </a>  
 
 - Master of Research (Security Science) - University College London (UCL) (2016 - 2017)
 
