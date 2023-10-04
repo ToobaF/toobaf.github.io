@@ -60,7 +60,8 @@ Blockchain Technology and Cryptocurrencies and their Future in Pakistan - Bahria
 ## Publications
 ---
 
-- How to Design Autonomous Service Level Agreements for 6G (***IEEE Communications Magazine*** **Accepted - March 2023**)  <a href="//github.com/ToobaF/publications/raw/main/2204.03857.pdf" class="image fit"><img src="images/pdf.png" alt="SLA_SC" width="20"></a> 
+- JITRA: Just-In-Time Resource Allocation Through the Distributed Ledgers for 5G and Beyond (***IEEE/ACM Transactions of Networking October 2023**)  <a href="//github.com/ToobaF/publications/raw/main/JITRA_Just-In-Time_Resource_Allocation_Through_the_Distributed_Ledgers_for_5G_and_Beyond.pdf" class="image fit"><img src="images/pdf.png" alt="SLA_SC" width="20"></a> 
+- How to Design Autonomous Service Level Agreements for 6G (***IEEE Communications Magazine March 2023**)  <a href="//github.com/ToobaF/publications/raw/main/2204.03857.pdf" class="image fit"><img src="images/pdf.png" alt="SLA_SC" width="20"></a> 
 - BEAT: Blockchain-Enable Accountable and Transparent Infrastructure Sharing (***IEEE Access 2022***)  <a href="//github.com/ToobaF/publications/raw/main/BEAT_Blockchain-Enabled_Accountable_and_Transparent_Infrastructure_Sharing_in_6G_and_Beyond.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
 
 - BEAT: Blockchain-Enable Accountable and Transparent Network Sharing (***IEEE Communications Magazine 2022***) <a href="//github.com/ToobaF/publications/raw/main/main_commag_rev.pdf" class="image fit"><img src="images/pdf.png" alt="BEAT" width="20"></a> 
