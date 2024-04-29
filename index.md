@@ -86,6 +86,8 @@ with Smart Contracts](/pdf/AJIT.pdf) -->
 
 ## Standards Contribution
 
+- Participating as an **Expert** in **STF 655 on Smart Contracts** from Nokia Networks France
+
 - Rapporteur of the Work Item on 'Smart Contracts' **Group Report PDL - 004** ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL) <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=58907">Link to the WI</a>
 
 - Rapporteur of the Work Item on 'Smart Contracts' **Group Specifications PDL - 11** ETSI Industries Specifications Group (ISG) for Permissiond Distributed Ledgers (PDL) <a href="https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?WKI_ID=62584">Link to the WI</a>
