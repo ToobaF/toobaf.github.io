@@ -1,6 +1,6 @@
 
-## Research Web3 Engineer at Nokia Bell-Labs.
-
+## Convergence Standards Specialist at BT Group
+ 
 Research interests are:
 1) Distributed Ledger Technologies 
 2) Service Level Agreements
